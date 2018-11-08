@@ -5,3 +5,6 @@
 3 对于path:用户变量+系统变量=%path%,这样造成在保存老的path时，字符非常多
 
 4.设置系统变量：setx /m ：错误，拒绝访问注册表路径
+
+
+https://blog.csdn.net/jinggangshi/article/details/43265679
